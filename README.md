@@ -22,7 +22,7 @@ I am a disciplined developer based in **Bengaluru** with a focus on building AI-
 ---
 
 ### 📫 Let's Connect!
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/sharonshaijan) 
+- 💼 [LinkedIn Profile]([https://www.linkedin.com/in/sharonshaijan](https://www.linkedin.com/in/sharon-shaijan-0872662b2/)) 
 - 📧 [Email Me](mailto:sharonshaijan2825@gmail.com)
 ---
 *"Commit your work to the Lord, and your plans will be established." (Proverbs 16:3)*
